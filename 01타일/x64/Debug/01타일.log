@@ -1,0 +1,2 @@
+﻿  01타일.cpp
+C:\Users\user\Desktop\백준\01타일\01타일.cpp(4,10): fatal error C1083: 포함 파일을 열 수 없습니다. 'unistd.h': No such file or directory
